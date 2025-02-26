@@ -1,5 +1,3 @@
-Here's a short description for your README:
-
 ---
 
 # Node.js Telegram Bot Boilerplate  
